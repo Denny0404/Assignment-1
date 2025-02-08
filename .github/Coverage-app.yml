@@ -3,10 +3,10 @@ name: Test Calculator
 on:
   push:
     branches:
-      - Assignment-1
+      - main
   pull_request:
     branches:
-      - Assignment-1
+      - main
 
 jobs:
   test:
